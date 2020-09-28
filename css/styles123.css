@@ -1,0 +1,48 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: "Pacifico",serif;
+
+}
+h1{
+  margin:0 auto 0 auto;
+  line-height: 2;
+  font-size: 90px;
+  color: #6FBFBF;
+}
+.paragraph_2{
+  font-size: 40px;
+  color: #6FBFBF;
+
+}
+.top-container{
+  background-color:#E4F9F5;
+  padding-top: 10px;
+
+}
+.profile{
+  background-color:#E4F9F5;
+
+
+
+}
+.bottom-container{
+}
+.bottom-last{
+
+}
+.image_1{
+  border-radius: 100px;
+}
+.image_2{
+  height: 20%;
+  width: 20%;
+}
+.image_3{
+  height: 20%;
+  width: 20%;
+}
+.mountain_image{
+  height:300px;
+  width:1500px;
+}
